@@ -66,7 +66,7 @@ const AboutInfo = () => {
                             <div>
                                 <h3 className="text-2xl font-bold text-black mb-4">Global Reach:</h3>
                                 <p className="text-gray-600">
-                                    While our headquarters are local, our reach is global. Partnering with Next Stack Solutions means
+                                    While our headquarters are local, our reach is global. Partnering with Haris Ahmed means
                                     gaining access to a vast network of resources and expertise spanning continents. Whether you're a
                                     startup looking to make your mark or an established enterprise seeking to accelerate your growth
                                     journey.
@@ -76,7 +76,7 @@ const AboutInfo = () => {
                             <div>
                                 <h3 className="text-2xl font-bold text-black mb-4">Client-Centric Approach:</h3>
                                 <p className="text-gray-600">
-                                    At Next Stack Solutions, client satisfaction is our top priority. We take pride in building long-
+                                    At Haris Ahmed, client satisfaction is our top priority. We take pride in building long-
                                     lasting partnerships founded on trust, transparency, and mutual success. Your goals are our goals, and
                                     we're dedicated to delivering results that exceed your expectations every step of the way.
                                 </p>

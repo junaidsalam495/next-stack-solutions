@@ -35,8 +35,8 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex items-center space-x-2">
             <Image
-              src="/images/logo.png"
-              alt="Next Stack Solutions"
+              src="/images/haris-logo.png"
+              alt="Haris Ahmed"
               width={80}
               height={22}
               className="h-10 w-auto object-contain"

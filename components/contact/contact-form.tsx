@@ -23,7 +23,7 @@ const ContactForm = () => {
             phone: form.phone.value,
             subject: form.subject.value,
             comment: form.comment.value,
-            companyName: "Next Stack Solutions",
+            companyName: "Haris Ahmed",
         }
         try {
             await createContact({ variables: values })
@@ -57,7 +57,7 @@ const ContactForm = () => {
                             viewport={{ once: true }}
                             className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto leading-relaxed text-center"
                         >
-                            Reach out to us today and let start a conversation about how Next Stack Solutions can help your
+                            Reach out to us today and let start a conversation about how Haris Ahmed can help your
                             business thrive in the digital age.
                         </motion.p>
 

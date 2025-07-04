@@ -11,8 +11,8 @@ export function Footer() {
           <div>
             <Link href="/" className="flex items-center space-x-2">
               <Image
-                src="/images/logo-white.png"
-                alt="Next Stack Solutions"
+                src="/images/haris-logo.png"
+                alt="Haris Ahmed"
                 width={40}
                 height={40}
                 className="h-10 w-auto object-contain"
@@ -20,11 +20,11 @@ export function Footer() {
               />
             </Link>
             <p className="text-white text-sm my-4">
-              Step into the realm of technological excellence with Next Stack Solutions - your trusted partner in
+              Step into the realm of technological excellence with Haris Ahmed - your trusted partner in
               driving business innovation and success on a global scale.
             </p>
             <p className="text-white text-sm mb-4">
-              At Next Stack Solutions, we stand proudly at the vanguard of technological advancement, offering
+              At Haris Ahmed, we stand proudly at the vanguard of technological advancement, offering
               customized solutions to address the diverse needs of businesses worldwide. Backed by a team of seasoned
               professionals, we specialize in delivering state-of-the-art IT services and solutions tailored to propel
               your business forward in the digital landscape.
@@ -176,8 +176,8 @@ export function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-white text-sm">
-            Copyright © 2025 Next Stack Solutions. All Rights Reserved By{" "}
-            <span className="text-[#0C708E]">Next Stack Solutions</span>
+            Copyright © 2025 Haris Ahmed. All Rights Reserved By{" "}
+            <span className="text-[#0C708E]">Haris Ahmed</span>
           </p>
         </div>
       </div>

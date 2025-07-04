@@ -26,7 +26,7 @@ export function TrustedSection() {
 
         <div className="text-center my-12">
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Join the ranks of esteemed partners and clients who have placed their trust in Next Stack Solutions for
+            Join the ranks of esteemed partners and clients who have placed their trust in Haris Ahmed for
             innovative solutions and reliable service.
           </p>
         </div>

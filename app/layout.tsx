@@ -10,7 +10,7 @@ import ApolloClientProvider from "@/lib/apollo-client-provider"
 const inter = Inter({ subsets: ["latin"], weight: ["400", "600", "700"] })
 
 export const metadata: Metadata = {
-  title: "Next Stack Solutions - Portfolio",
+  title: "Haris Ahmed - Portfolio",
   description: "Professional web development and digital solutions",
 }
 

@@ -41,7 +41,7 @@ const AboutStats = () => {
                             We always try to understand users expectation
                         </h2>
                         <p className="text-gray-600 max-w-2xl mx-auto">
-                            Experience the Next Stack Solutions difference today. Contact us to learn more about our innovative IT
+                            Experience the Haris Ahmed difference today. Contact us to learn more about our innovative IT
                             services and solutions.
                         </p>
                     </div>
