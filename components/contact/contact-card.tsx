@@ -23,11 +23,11 @@ const ContactCard = () => {
                                     </div>
                                     <h3 className="text-xl font-semibold text-black mb-2">Mail Here</h3>
                                     <a
-                                        href="mailto:info@creativewebsolutions.com"
+                                        href="mailto:harisahmed88888@gmail.com"
                                         className="text-[#0C708E] hover:underline"
-                                        aria-label="Send an email to info@creativewebsolutions.com"
+                                        aria-label="Send an email to harisahmed88888@gmail.com"
                                     >
-                                        info@creativewebsolutions.com
+                                        harisahmed88888@gmail.com
                                     </a>
                                 </CardContent>
                             </Card>

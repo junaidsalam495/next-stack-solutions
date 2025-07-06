@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { Facebook, Linkedin, Instagram, MapPin, Mail, Phone } from "lucide-react"
+import { Mail } from "lucide-react"
 import WhatsapSvg from "./whatsap-svg"
 
 export function Footer() {
@@ -29,32 +29,6 @@ export function Footer() {
               professionals, we specialize in delivering state-of-the-art IT services and solutions tailored to propel
               your business forward in the digital landscape.
             </p>
-            <div className="flex space-x-4">
-              <a
-                href="https://www.facebook.com/CreativeWebsiteSolutions/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Visit our Facebook page"
-              >
-                <Facebook className="w-5 h-5 text-white hover:text-[#0C708E] cursor-pointer" />
-              </a>
-              <a
-                href="https://www.linkedin.com/company/creative-webs-solutions/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Visit our LinkedIn profile"
-              >
-                <Linkedin className="w-5 h-5 text-white hover:text-[#0C708E] cursor-pointer" />
-              </a>
-              <a
-                href="https://www.instagram.com/creativewebssolutions.official/"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="Visit our Instagram profile"
-              >
-                <Instagram className="w-5 h-5 text-white hover:text-[#0C708E] cursor-pointer" />
-              </a>
-            </div>
           </div>
 
           <div className="relative">
@@ -116,59 +90,46 @@ export function Footer() {
 
             <ul className="space-y-3 text-sm">
               <li className="flex items-start space-x-2">
-                <MapPin className="w-5 h-5 text-white hover:text-[#0C708E] mt-0.5" />
-                <span className="text-white">UK 167-169 Great Portland Street, London, W1W 5PF</span>
-              </li>
-              <li className="flex items-start space-x-2">
-                <MapPin className="w-5 h-5 text-white hover:text-[#0C708E] mt-0.5" />
-                <span className="text-white">US 1172 Northwest highway Dallas tx 75220</span>
-              </li>
-              <li className="flex items-start space-x-2">
                 <Mail className="w-5 h-5 text-white hover:text-[#0C708E] mt-0.5" />
-                <a href="mailto:info@creativewebsolutions.com" className="text-white hover:text-[#0C708E] hover:underline">
-                  info@creativewebsolutions.com
+                <a href="mailto:harisahmed88888@gmail.com" className="text-white hover:text-[#0C708E] hover:underline">
+                  harisahmed88888@gmail.com
                 </a>
               </li>
               <li className="flex items-start space-x-2">
-                <Mail className="w-5 h-5 text-white hover:text-[#0C708E] mt-0.5" />
-                <a href="mailto:matthew@creativewebsolutions.com" className="text-white hover:text-[#0C708E] hover:underline">
-                  matthew@creativewebsolutions.com
-                </a>
-              </li>
-              <li className="flex items-start space-x-2">
-                <Phone className="w-5 h-5 text-white hover:text-[#0C708E] mt-0.5" />
-                <a href="tel:+19727774163" className="text-white hover:text-[#0C708E] hover:underline">+1 972 777-4163</a>
-              </li>
-              <li className="flex items-start space-x-2">
-                <Phone className="w-5 h-5 text-white hover:text-[#0C708E] mt-0.5" />
-                <a href="tel:+442045155008" className="text-white hover:text-[#0C708E] hover:underline">+44 204 515 5008</a>
+                <WhatsapSvg />
+                <a
+                  href="https://wa.me/923062249967"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Chat with us on WhatsApp"
+                  className="text-white hover:text-[#0C708E] hover:underline">+92 306 2249967</a>
               </li>
               <li className="flex items-start space-x-2">
                 <WhatsapSvg />
                 <a
-                  href="https://wa.me/447506100310"
+                  href="https://wa.me/923708622374"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Chat with us on WhatsApp"
-                  className="text-white hover:text-[#0C708E] hover:underline">+44 750 610 0310</a>
+                  className="text-white hover:text-[#0C708E] hover:underline">+92 370 8622374</a>
               </li>
               <li className="flex items-start space-x-2">
                 <WhatsapSvg />
                 <a
-                  href="https://wa.me/4915216652405"
+                  href="https://wa.me/923171011890"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Chat with us on WhatsApp"
-                  className="text-white hover:text-[#0C708E] hover:underline">+49 1521 6652405</a>
+                  className="text-white hover:text-[#0C708E] hover:underline">+92 317 1011890</a>
               </li>
               <li className="flex items-start space-x-2">
                 <WhatsapSvg />
                 <a
-                  href="https://wa.me/19403440682"
+                  href="https://wa.me/923172043030"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Chat with us on WhatsApp"
-                  className="text-white hover:text-[#0C708E] hover:underline">+1 940 344 0682</a>
+                  className="text-white hover:text-[#0C708E] hover:underline">+92 317 2043030</a>
               </li>
             </ul>
           </div>

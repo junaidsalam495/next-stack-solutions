@@ -7,7 +7,7 @@ export const services_data = [
         icon: Monitor,
         title: "Web Development",
         shortText:
-            "Maximize your business's potential with our expert consultancy services. From strategic planning to implementation, our experienced consultants provide tailored guidance to help you achieve your goals efficiently and effectively. Trust Creative Webs Solutions to be your partner in driving growth and success.",
+            "Maximize your business's potential with our expert consultancy services. From strategic planning to implementation, our experienced consultants provide tailored guidance to help you achieve your goals efficiently and effectively. Trust Haris Ahmed to be your partner in driving growth and success.",
         workProcess: `
       <ul class="space-y-3">
         <li class="flex items-start space-x-3">
@@ -53,7 +53,7 @@ export const services_data = [
         icon: Smartphone,
         title: "App Development",
         shortText:
-            "Turn your ideas into reality with our Mobile App Development service. Our expert team specializes in crafting innovative and user-friendly mobile applications for iOS and Android platforms. From concept to launch, we prioritize functionality, performance, and user experience to ensure your app stands out in the crowded marketplace. Partner with Creative Webs Solutions to create a mobile solution that engages users and drives business growth.",
+            "Turn your ideas into reality with our Mobile App Development service. Our expert team specializes in crafting innovative and user-friendly mobile applications for iOS and Android platforms. From concept to launch, we prioritize functionality, performance, and user experience to ensure your app stands out in the crowded marketplace. Partner with Haris Ahmed to create a mobile solution that engages users and drives business growth.",
         workProcess: `
       <ul class="space-y-3">
         <li class="flex items-start space-x-3">
@@ -99,7 +99,7 @@ export const services_data = [
         icon: Heart,
         title: "CRM Solutions",
         shortText:
-            "Harness the power of digital channels to grow your business with our Digital Marketing service. Our experienced team creates data-driven strategies to enhance your online presence, attract targeted audiences, and drive conversions. From SEO and social media management to email campaigns and PPC advertising, we deliver measurable results that propel your business forward. Trust Creative Webs Solutions to optimize your digital marketing efforts and achieve your goals.",
+            "Harness the power of digital channels to grow your business with our Digital Marketing service. Our experienced team creates data-driven strategies to enhance your online presence, attract targeted audiences, and drive conversions. From SEO and social media management to email campaigns and PPC advertising, we deliver measurable results that propel your business forward. Trust Haris Ahmed to optimize your digital marketing efforts and achieve your goals.",
         workProcess: `
       <ul class="space-y-3">
         <li class="flex items-start space-x-3">
@@ -138,7 +138,7 @@ export const services_data = [
         icon: Palette,
         title: "Graphic Designing",
         shortText:
-            "Transform your online store into a thriving business with our eCommerce Development service. Our experienced team specializes in creating scalable and secure eCommerce solutions tailored to your unique needs. From intuitive user interfaces to seamless payment gateways, we provide end-to-end support to help you maximize sales and streamline operations. Partner with Creative Webs Solutions to elevate your eCommerce experience and drive growth.",
+            "Transform your online store into a thriving business with our eCommerce Development service. Our experienced team specializes in creating scalable and secure eCommerce solutions tailored to your unique needs. From intuitive user interfaces to seamless payment gateways, we provide end-to-end support to help you maximize sales and streamline operations. Partner with Haris Ahmed to elevate your eCommerce experience and drive growth.",
         workProcess: `
       <ul class="space-y-3">
         <li class="flex items-start space-x-3">
@@ -178,7 +178,7 @@ export const services_data = [
         icon: Layout,
         title: "UI/UX Design",
         shortText:
-            "Elevate your online presence with our expert Web Development service. Our skilled team crafts visually stunning and user-friendly websites tailored to your unique brand and audience. From concept to launch, we deliver custom solutions that captivate visitors and drive results. Partner with Creative Webs Solutions to bring your digital vision to life.",
+            "Elevate your online presence with our expert Web Development service. Our skilled team crafts visually stunning and user-friendly websites tailored to your unique brand and audience. From concept to launch, we deliver custom solutions that captivate visitors and drive results. Partner with Haris Ahmed to bring your digital vision to life.",
         workProcess: `
       <ul class="space-y-3">
         <li class="flex items-start space-x-3">
@@ -218,7 +218,7 @@ export const services_data = [
         icon: TrendingUp,
         title: "Digital Marketing",
         shortText:
-            "Gain valuable insights and optimize your marketing efforts with our Marketing & Reporting service. Our team utilizes advanced analytics tools to track and analyze key performance metrics, providing you with actionable data to make informed decisions. From campaign performance to audience demographics, we deliver comprehensive reports that help you refine your strategies and maximize ROI. Partner with Creative Webs Solutions to drive success through data-driven marketing.",
+            "Gain valuable insights and optimize your marketing efforts with our Marketing & Reporting service. Our team utilizes advanced analytics tools to track and analyze key performance metrics, providing you with actionable data to make informed decisions. From campaign performance to audience demographics, we deliver comprehensive reports that help you refine your strategies and maximize ROI. Partner with Haris Ahmed to drive success through data-driven marketing.",
         workProcess: `
       <ul class="space-y-3">
         <li class="flex items-start space-x-3">
@@ -276,7 +276,7 @@ export const services_data = [
         title: "MVP (Minimum Viable Product) Development",
         shortText: "Empower Your Business with Innovative Development Solutions!",
         workProcess: `
-      <p class="mb-4">At Creative Webs Solutions, we have honed a meticulous and efficient process to ensure the successful development and launch of Minimum Viable Products (MVPs). Our approach is designed to maximize value, minimize risk, and provide actionable insights to refine and scale your product. Here's how we do it:</p>
+      <p class="mb-4">At Haris Ahmed, we have honed a meticulous and efficient process to ensure the successful development and launch of Minimum Viable Products (MVPs). Our approach is designed to maximize value, minimize risk, and provide actionable insights to refine and scale your product. Here's how we do it:</p>
       <ol class="space-y-4">
         <li>
           <strong>Discovery and Requirement Analysis</strong>
@@ -432,7 +432,7 @@ export const services_data = [
         title: "Artificial Intelligence (AI) Development",
         shortText: "Empower Your Business with Innovative Development Solutions!",
         workProcess: `
-      <p class="mb-4">At Creative Webs Solutions, we follow a structured and comprehensive process to ensure the successful development and implementation of AI solutions tailored to meet the unique needs of our clients. Our working process is designed to maximize efficiency, accuracy, and innovation. Here's how we do it:</p>
+      <p class="mb-4">At Haris Ahmed, we follow a structured and comprehensive process to ensure the successful development and implementation of AI solutions tailored to meet the unique needs of our clients. Our working process is designed to maximize efficiency, accuracy, and innovation. Here's how we do it:</p>
       <ol class="space-y-4">
         <li>
           <strong>Discovery and Requirement Analysis</strong>
@@ -599,7 +599,7 @@ export const services_data = [
         title: "Internet of Things (IoT) Development",
         shortText: "Empower Your Business with Innovative Development Solutions!",
         workProcess: `
-      <p class="mb-4">At Creative Webs Solutions, we follow a meticulous and comprehensive process to deliver high-quality IoT solutions tailored to the unique needs of our clients. Our working process is designed to ensure seamless integration, optimal performance, and continuous improvement. Here's how we do it:</p>
+      <p class="mb-4">At Haris Ahmed, we follow a meticulous and comprehensive process to deliver high-quality IoT solutions tailored to the unique needs of our clients. Our working process is designed to ensure seamless integration, optimal performance, and continuous improvement. Here's how we do it:</p>
       <ol class="space-y-4">
         <li>
           <strong>Discovery and Requirement Analysis</strong>

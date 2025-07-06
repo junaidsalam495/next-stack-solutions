@@ -63,7 +63,7 @@ export function Header() {
 
           <div className="hidden lg:flex items-center space-x-4">
             <a
-              href="https://wa.me/447440451891"
+              href="https://wa.me/923062249967"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Chat with us on WhatsApp"
@@ -72,15 +72,6 @@ export function Header() {
                 <WhatsapSvg />
                 WhatsApp
               </button>
-            </a>
-            <a href="https://tawk.to/chat/6239f19d2bd26d087e742876/1fup5fk6a" target="_blank">
-              <Button
-                className="bg-[#0C708E] hover:bg-[#08596F] text-white rounded-full px-5 py-2 flex items-center gap-2"
-                aria-label="Start a live chat with our support team"
-              >
-                <MessageCircle size={16} aria-hidden="true" />
-                Live Chat
-              </Button>
             </a>
           </div>
           <button
@@ -111,7 +102,7 @@ export function Header() {
             ))}
             <div className="flex flex-col space-y-2 mt-4">
               <a
-                href="https://wa.me/447440451891"
+                href="https://wa.me/923062249967"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Chat with us on WhatsApp"
@@ -121,17 +112,7 @@ export function Header() {
                   WhatsApp
                 </button>
               </a>
-              <a href="https://tawk.to/chat/6239f19d2bd26d087e742876/1fup5fk6a" target="_blank">
-                <Button
-                  className="bg-[#0C708E] hover:bg-[#08596F] text-white rounded-full px-5 py-2 flex items-center gap-2"
-                  aria-label="Start a live chat with our support team"
-                >
-                  <MessageCircle size={16} aria-hidden="true" />
-                  Live Chat
-                </Button>
-              </a>
             </div>
-
           </motion.nav>
         )}
       </div>

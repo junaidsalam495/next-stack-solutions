@@ -5,7 +5,7 @@ import { PhoneCall } from "lucide-react"
 import { cn } from "@/lib/utils"
 import WhatsapSvg from "./whatsap-svg"
 
-const WHATSAPP_NUMBER = "+447440451891"
+const WHATSAPP_NUMBER = "+923062249967"
 
 export function WhatsAppFloatingButton() {
   const [hovered, setHovered] = useState(false)
@@ -13,7 +13,7 @@ export function WhatsAppFloatingButton() {
   return (
     <>
       <a
-        href="https://wa.me/447440451891"
+        href="https://wa.me/923062249967"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Chat with us on WhatsApp"
