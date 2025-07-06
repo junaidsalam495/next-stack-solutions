@@ -9,12 +9,13 @@ const ContactCard = () => {
         <>
             <section className="py-20 bg-gray-100">
                 <div className="container mx-auto px-4">
-                    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <div className="flex justify-center gap-8 mx-auto">
                         <motion.div
                             initial={{ opacity: 0, y: 50 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             transition={{ duration: 0.5 }}
                             viewport={{ once: true }}
+                            className="w-full md:w-1/3"
                         >
                             <Card className="text-center p-8 h-full">
                                 <CardContent className="p-0">
@@ -35,29 +36,9 @@ const ContactCard = () => {
                         <motion.div
                             initial={{ opacity: 0, y: 50 }}
                             whileInView={{ opacity: 1, y: 0 }}
-                            transition={{ duration: 0.5, delay: 0.1 }}
-                            viewport={{ once: true }}
-                        >
-                            <Card className="text-center p-8 h-full">
-                                <CardContent className="p-0">
-                                    <div className="w-16 h-16 bg-[#0C708E] rounded-full flex items-center justify-center mx-auto mb-4">
-                                        <MapPin className="w-8 h-8 text-white" />
-                                    </div>
-                                    <h3 className="text-xl font-semibold text-black mb-2">Visit Here</h3>
-                                    <p className="text-gray-600 text-sm">
-                                        UK 167-169 Great Portland Street, London, W1W 5PF
-                                        <br />
-                                        <br />
-                                        US 1172 Northwest highway Dallas TX 75220
-                                    </p>
-                                </CardContent>
-                            </Card>
-                        </motion.div>
-                        <motion.div
-                            initial={{ opacity: 0, y: 50 }}
-                            whileInView={{ opacity: 1, y: 0 }}
                             transition={{ duration: 0.5, delay: 0.2 }}
                             viewport={{ once: true }}
+                            className="w-full md:w-1/3"
                         >
                             <Card className="text-center p-8 h-full">
                                 <CardContent className="p-0">
@@ -67,18 +48,18 @@ const ContactCard = () => {
                                     <h3 className="text-xl font-semibold text-black mb-2">Call Here</h3>
                                     <p className="text-gray-600 text-sm space-y-2">
                                         <a
-                                            href="tel:+442045155008"
+                                            href="tel:923062249967"
                                             className="block text-[#0C708E] hover:underline"
                                             aria-label="Call UK office"
                                         >
-                                            UK +44 20 45155008
+                                            PK +92 306 2249967
                                         </a>
                                         <a
-                                            href="tel:+19727774163"
+                                            href="tel:923708622374"
                                             className="block mt-2 text-[#0C708E] hover:underline"
                                             aria-label="Call US office"
                                         >
-                                            US +972 777-4163
+                                            PK +92 370 8622374
                                         </a>
                                     </p>
                                 </CardContent>
